@@ -1,7 +1,1 @@
-njnjnjenja
-nwkknaknknwa
-kwkwkwkj
-akjwjwjw
-jwjwjw
-
-naaahah
+print("anker")
